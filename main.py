@@ -1,5 +1,3 @@
-
-
 from fastapi import Depends, FastAPI, HTTPException
 from sqlalchemy.orm import Session
 
@@ -21,28 +19,6 @@ def get_db():
 @app.get("/")
 def read_root():
     return {"Hello": "World"}
-
-
-""" @app.get("/items/{item_id}")
-def read_item(item_id: int, q: Union[str, None] = None):
-    return {"item_id": item_id, "q": q}
- """
-
-""" @app.put("/items/{item_id}")
-def update_item(item_id: int, item: Item):
-    return {"item_name": item.name, "item_id": item_id} """
-
-'''
-query params example
-'''
-
-fake_items_db = [{"item_name": "Foo"}, {"item_name": "Bar"}, {"item_name": "Baz"}]
-
-
-""" @app.get("/items/")
-async def read_item(skip: int = 0, limit: int = 10):
-    return fake_items_db[skip : skip + limit] """
-
 
 @app.post("/users/", response_model=schemas.User)
 def create_user(user: schemas.UserCreate, db: Session = Depends(get_db)):
@@ -78,21 +54,8 @@ def read_items(skip: int = 0, limit: int = 100, db: Session = Depends(get_db)):
     items = crud.get_items(db, skip=skip, limit=limit)
     return items
 
-'''
 
-GET /sentiment?subreddit=crypto&topic=etherium
-'''
-
-fake_sentiment_db = [{
-    "subreddit":"crypto",
-    "topic":"etherium",
-    "sentiment":"8"
-    }]
-
-""" @app.get("/sentiment/")
-def getSentiment(subreddit: str, topic: str):
-    return fake_sentiment_db[0] """
-
+#GET /sentiment?subreddit=crypto&topic=etherium
 @app.get("/sentiment/", response_model=schemas.Sentiment)
 def read_Sentiment(subreddit: str, topic: str, db: Session = Depends(get_db)):
     sentiment = crud.get_sentiment_by_subreddit_and_topic(db, subreddit=subreddit, topic=topic)

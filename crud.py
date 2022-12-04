@@ -41,7 +41,7 @@ def get_sentiment_by_subreddit_and_topic(db: Session, subreddit: str, topic: str
     return db.query(models.Sentiment).filter(models.Sentiment.subreddit == subreddit, models.Sentiment.topic == topic).first()
 
 def createSentiment(db: Session, sentiment: schemas.SentimentCreate):
-        db_sentiment = models.Sentiment(subreddit="crypto", topic="eth",sentimentrating=random.randint(1,10))
+        db_sentiment = models.Sentiment(subreddit=sentiment.subreddit, topic=sentiment.topic,sentimentrating=sentiment.sentimentrating)
         db.add(db_sentiment)
         db.commit()
         db.refresh(db_sentiment)
