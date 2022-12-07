@@ -20,14 +20,19 @@ authentication to reddit api
 
 import requests, json, time
 from textblob import TextBlob
+import configparser
+
+config = configparser.ConfigParser()
+config.read("logincreds.ini")
+print(config["default"]["user"])
 
 # note that CLIENT_ID refers to 'personal use script' and SECRET_TOKEN to 'token'
-auth = requests.auth.HTTPBasicAuth('yI9vKDOvJduZHfGHFwzxVw', '_cZjCXrVM7H4j0As9HqrYs9NvyyddQ')
+auth = requests.auth.HTTPBasicAuth(config["default"]["client_id"], config["default"]["secret_token"])
 
 # here we pass our login method (password), username, and password
 data = {'grant_type': 'password',
-        'username': 'anonintheshell',
-        'password': '!QAY2wsx'}
+        'username': config["default"]["username"],
+        'password': config["default"]["password"]}
 
 # setup our header info, which gives reddit a brief description of our app
 headers = {'User-Agent': 'MyBot/0.0.1'}
