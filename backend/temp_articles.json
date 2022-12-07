@@ -1,0 +1,1007 @@
+{
+    "kind": "Listing",
+    "data": {
+        "modhash": null,
+        "dist": 3,
+        "facets": {},
+        "after": "t3_yq23d7",
+        "geo_filter": "",
+        "children": [
+            {
+                "kind": "t3",
+                "data": {
+                    "approved_at_utc": null,
+                    "subreddit": "CryptoCurrency",
+                    "selftext": "1. ETH is now down less than BTC from it's all time high, something which never happened before in a bear market\n2. BTC dominance keeps falling even in a bear market when it's supposed to go back up meanwhile ETH dominance keeps rising: [https://btctools.io/stats/dominance](https://btctools.io/stats/dominance)\n3. The energy narrative will only dissuade people from investing or mining PoW coins\n4. Every metric from active addresses, to number of developers is higher on ETH than BTC\n5. ETH literally has less inflation than BTC does now [https://ultrasound.money/](https://ultrasound.money/)\n6. ETH is the only asset on earth that has exhibits all three properties in a sustainable way (store of value, capital asset, consumable asset). Great read: [https://newsletter.banklesshq.com/p/ether-a-new-model-for-money](https://newsletter.banklesshq.com/p/ether-a-new-model-for-money)\n7. Ethereum can actually upgrade it's technology and every potential use case for crypto is possible through Ethereum not Bitcoin",
+                    "author_fullname": "t2_1f8ctslj",
+                    "saved": false,
+                    "mod_reason_title": null,
+                    "gilded": 1,
+                    "clicked": false,
+                    "title": "Ethereum will inevitably flip Bitcoin",
+                    "link_flair_richtext": [
+                        {
+                            "e": "text",
+                            "t": "DISCUSSION"
+                        }
+                    ],
+                    "subreddit_name_prefixed": "r/CryptoCurrency",
+                    "hidden": false,
+                    "pwls": 6,
+                    "link_flair_css_class": "DISCUSSION",
+                    "downs": 0,
+                    "thumbnail_height": null,
+                    "top_awarded_type": null,
+                    "hide_score": false,
+                    "name": "t3_ytdb2l",
+                    "quarantine": false,
+                    "link_flair_text_color": "dark",
+                    "upvote_ratio": 0.67,
+                    "author_flair_background_color": "",
+                    "subreddit_type": "public",
+                    "ups": 453,
+                    "total_awards_received": 6,
+                    "media_embed": {},
+                    "thumbnail_width": null,
+                    "author_flair_template_id": null,
+                    "is_original_content": false,
+                    "user_reports": [],
+                    "secure_media": null,
+                    "is_reddit_media_domain": false,
+                    "is_meta": false,
+                    "category": null,
+                    "secure_media_embed": {},
+                    "link_flair_text": "DISCUSSION",
+                    "can_mod_post": false,
+                    "score": 453,
+                    "approved_by": null,
+                    "is_created_from_ads_ui": false,
+                    "author_premium": false,
+                    "thumbnail": "self",
+                    "edited": false,
+                    "author_flair_css_class": "",
+                    "author_flair_richtext": [
+                        {
+                            "e": "text",
+                            "t": "Silver | QC: CC 286, ETH 71, XMR 31 | NANO 53 | r/WSB 77"
+                        }
+                    ],
+                    "gildings": {
+                        "gid_1": 3,
+                        "gid_2": 1
+                    },
+                    "content_categories": null,
+                    "is_self": true,
+                    "mod_note": null,
+                    "created": 1668274128.0,
+                    "link_flair_type": "richtext",
+                    "wls": 6,
+                    "removed_by_category": null,
+                    "banned_by": null,
+                    "author_flair_type": "richtext",
+                    "domain": "self.CryptoCurrency",
+                    "allow_live_comments": true,
+                    "selftext_html": "&lt;!-- SC_OFF --&gt;&lt;div class=\"md\"&gt;&lt;ol&gt;\n&lt;li&gt;ETH is now down less than BTC from it&amp;#39;s all time high, something which never happened before in a bear market&lt;/li&gt;\n&lt;li&gt;BTC dominance keeps falling even in a bear market when it&amp;#39;s supposed to go back up meanwhile ETH dominance keeps rising: &lt;a href=\"https://btctools.io/stats/dominance\"&gt;https://btctools.io/stats/dominance&lt;/a&gt;&lt;/li&gt;\n&lt;li&gt;The energy narrative will only dissuade people from investing or mining PoW coins&lt;/li&gt;\n&lt;li&gt;Every metric from active addresses, to number of developers is higher on ETH than BTC&lt;/li&gt;\n&lt;li&gt;ETH literally has less inflation than BTC does now &lt;a href=\"https://ultrasound.money/\"&gt;https://ultrasound.money/&lt;/a&gt;&lt;/li&gt;\n&lt;li&gt;ETH is the only asset on earth that has exhibits all three properties in a sustainable way (store of value, capital asset, consumable asset). Great read: &lt;a href=\"https://newsletter.banklesshq.com/p/ether-a-new-model-for-money\"&gt;https://newsletter.banklesshq.com/p/ether-a-new-model-for-money&lt;/a&gt;&lt;/li&gt;\n&lt;li&gt;Ethereum can actually upgrade it&amp;#39;s technology and every potential use case for crypto is possible through Ethereum not Bitcoin&lt;/li&gt;\n&lt;/ol&gt;\n&lt;/div&gt;&lt;!-- SC_ON --&gt;",
+                    "likes": null,
+                    "suggested_sort": null,
+                    "banned_at_utc": null,
+                    "view_count": null,
+                    "archived": false,
+                    "no_follow": false,
+                    "is_crosspostable": true,
+                    "pinned": false,
+                    "over_18": false,
+                    "all_awardings": [
+                        {
+                            "giver_coin_reward": null,
+                            "subreddit_id": null,
+                            "is_new": false,
+                            "days_of_drip_extension": null,
+                            "coin_price": 100,
+                            "id": "gid_1",
+                            "penny_donate": null,
+                            "award_sub_type": "GLOBAL",
+                            "coin_reward": 0,
+                            "icon_url": "https://www.redditstatic.com/gold/awards/icon/silver_512.png",
+                            "days_of_premium": null,
+                            "tiers_by_required_awardings": null,
+                            "resized_icons": [
+                                {
+                                    "url": "https://www.redditstatic.com/gold/awards/icon/silver_16.png",
+                                    "width": 16,
+                                    "height": 16
+                                },
+                                {
+                                    "url": "https://www.redditstatic.com/gold/awards/icon/silver_32.png",
+                                    "width": 32,
+                                    "height": 32
+                                },
+                                {
+                                    "url": "https://www.redditstatic.com/gold/awards/icon/silver_48.png",
+                                    "width": 48,
+                                    "height": 48
+                                },
+                                {
+                                    "url": "https://www.redditstatic.com/gold/awards/icon/silver_64.png",
+                                    "width": 64,
+                                    "height": 64
+                                },
+                                {
+                                    "url": "https://www.redditstatic.com/gold/awards/icon/silver_128.png",
+                                    "width": 128,
+                                    "height": 128
+                                }
+                            ],
+                            "icon_width": 512,
+                            "static_icon_width": 512,
+                            "start_date": null,
+                            "is_enabled": true,
+                            "awardings_required_to_grant_benefits": null,
+                            "description": "Shows the Silver Award... and that's it.",
+                            "end_date": null,
+                            "sticky_duration_seconds": null,
+                            "subreddit_coin_reward": 0,
+                            "count": 3,
+                            "static_icon_height": 512,
+                            "name": "Silver",
+                            "resized_static_icons": [
+                                {
+                                    "url": "https://www.redditstatic.com/gold/awards/icon/silver_16.png",
+                                    "width": 16,
+                                    "height": 16
+                                },
+                                {
+                                    "url": "https://www.redditstatic.com/gold/awards/icon/silver_32.png",
+                                    "width": 32,
+                                    "height": 32
+                                },
+                                {
+                                    "url": "https://www.redditstatic.com/gold/awards/icon/silver_48.png",
+                                    "width": 48,
+                                    "height": 48
+                                },
+                                {
+                                    "url": "https://www.redditstatic.com/gold/awards/icon/silver_64.png",
+                                    "width": 64,
+                                    "height": 64
+                                },
+                                {
+                                    "url": "https://www.redditstatic.com/gold/awards/icon/silver_128.png",
+                                    "width": 128,
+                                    "height": 128
+                                }
+                            ],
+                            "icon_format": null,
+                            "icon_height": 512,
+                            "penny_price": null,
+                            "award_type": "global",
+                            "static_icon_url": "https://www.redditstatic.com/gold/awards/icon/silver_512.png"
+                        },
+                        {
+                            "giver_coin_reward": null,
+                            "subreddit_id": null,
+                            "is_new": false,
+                            "days_of_drip_extension": null,
+                            "coin_price": 500,
+                            "id": "gid_2",
+                            "penny_donate": null,
+                            "award_sub_type": "GLOBAL",
+                            "coin_reward": 100,
+                            "icon_url": "https://www.redditstatic.com/gold/awards/icon/gold_512.png",
+                            "days_of_premium": 7,
+                            "tiers_by_required_awardings": null,
+                            "resized_icons": [
+                                {
+                                    "url": "https://www.redditstatic.com/gold/awards/icon/gold_16.png",
+                                    "width": 16,
+                                    "height": 16
+                                },
+                                {
+                                    "url": "https://www.redditstatic.com/gold/awards/icon/gold_32.png",
+                                    "width": 32,
+                                    "height": 32
+                                },
+                                {
+                                    "url": "https://www.redditstatic.com/gold/awards/icon/gold_48.png",
+                                    "width": 48,
+                                    "height": 48
+                                },
+                                {
+                                    "url": "https://www.redditstatic.com/gold/awards/icon/gold_64.png",
+                                    "width": 64,
+                                    "height": 64
+                                },
+                                {
+                                    "url": "https://www.redditstatic.com/gold/awards/icon/gold_128.png",
+                                    "width": 128,
+                                    "height": 128
+                                }
+                            ],
+                            "icon_width": 512,
+                            "static_icon_width": 512,
+                            "start_date": null,
+                            "is_enabled": true,
+                            "awardings_required_to_grant_benefits": null,
+                            "description": "Gives 100 Reddit Coins and a week of r/lounge access and ad-free browsing.",
+                            "end_date": null,
+                            "sticky_duration_seconds": null,
+                            "subreddit_coin_reward": 0,
+                            "count": 1,
+                            "static_icon_height": 512,
+                            "name": "Gold",
+                            "resized_static_icons": [
+                                {
+                                    "url": "https://www.redditstatic.com/gold/awards/icon/gold_16.png",
+                                    "width": 16,
+                                    "height": 16
+                                },
+                                {
+                                    "url": "https://www.redditstatic.com/gold/awards/icon/gold_32.png",
+                                    "width": 32,
+                                    "height": 32
+                                },
+                                {
+                                    "url": "https://www.redditstatic.com/gold/awards/icon/gold_48.png",
+                                    "width": 48,
+                                    "height": 48
+                                },
+                                {
+                                    "url": "https://www.redditstatic.com/gold/awards/icon/gold_64.png",
+                                    "width": 64,
+                                    "height": 64
+                                },
+                                {
+                                    "url": "https://www.redditstatic.com/gold/awards/icon/gold_128.png",
+                                    "width": 128,
+                                    "height": 128
+                                }
+                            ],
+                            "icon_format": null,
+                            "icon_height": 512,
+                            "penny_price": null,
+                            "award_type": "global",
+                            "static_icon_url": "https://www.redditstatic.com/gold/awards/icon/gold_512.png"
+                        },
+                        {
+                            "giver_coin_reward": null,
+                            "subreddit_id": null,
+                            "is_new": false,
+                            "days_of_drip_extension": null,
+                            "coin_price": 150,
+                            "id": "award_f44611f1-b89e-46dc-97fe-892280b13b82",
+                            "penny_donate": null,
+                            "award_sub_type": "GLOBAL",
+                            "coin_reward": 0,
+                            "icon_url": "https://i.redd.it/award_images/t5_22cerq/klvxk1wggfd41_Helpful.png",
+                            "days_of_premium": null,
+                            "tiers_by_required_awardings": null,
+                            "resized_icons": [
+                                {
+                                    "url": "https://preview.redd.it/award_images/t5_22cerq/klvxk1wggfd41_Helpful.png?width=16&amp;height=16&amp;auto=webp&amp;s=a5662dfbdb402bf67866c050aa76c31c147c2f45",
+                                    "width": 16,
+                                    "height": 16
+                                },
+                                {
+                                    "url": "https://preview.redd.it/award_images/t5_22cerq/klvxk1wggfd41_Helpful.png?width=32&amp;height=32&amp;auto=webp&amp;s=a6882eb3f380e8e88009789f4d0072e17b8c59f1",
+                                    "width": 32,
+                                    "height": 32
+                                },
+                                {
+                                    "url": "https://preview.redd.it/award_images/t5_22cerq/klvxk1wggfd41_Helpful.png?width=48&amp;height=48&amp;auto=webp&amp;s=e50064b090879e8a0b55e433f6ee61d5cb5fbe1d",
+                                    "width": 48,
+                                    "height": 48
+                                },
+                                {
+                                    "url": "https://preview.redd.it/award_images/t5_22cerq/klvxk1wggfd41_Helpful.png?width=64&amp;height=64&amp;auto=webp&amp;s=8e5bb2e76683cb6b161830bcdd9642049d6adc11",
+                                    "width": 64,
+                                    "height": 64
+                                },
+                                {
+                                    "url": "https://preview.redd.it/award_images/t5_22cerq/klvxk1wggfd41_Helpful.png?width=128&amp;height=128&amp;auto=webp&amp;s=eda4a9246f95f42ee6940cc0ec65306fd20de878",
+                                    "width": 128,
+                                    "height": 128
+                                }
+                            ],
+                            "icon_width": 2048,
+                            "static_icon_width": 2048,
+                            "start_date": null,
+                            "is_enabled": true,
+                            "awardings_required_to_grant_benefits": null,
+                            "description": "Thank you stranger. Shows the award.",
+                            "end_date": null,
+                            "sticky_duration_seconds": null,
+                            "subreddit_coin_reward": 0,
+                            "count": 1,
+                            "static_icon_height": 2048,
+                            "name": "Helpful",
+                            "resized_static_icons": [
+                                {
+                                    "url": "https://preview.redd.it/award_images/t5_22cerq/klvxk1wggfd41_Helpful.png?width=16&amp;height=16&amp;auto=webp&amp;s=a5662dfbdb402bf67866c050aa76c31c147c2f45",
+                                    "width": 16,
+                                    "height": 16
+                                },
+                                {
+                                    "url": "https://preview.redd.it/award_images/t5_22cerq/klvxk1wggfd41_Helpful.png?width=32&amp;height=32&amp;auto=webp&amp;s=a6882eb3f380e8e88009789f4d0072e17b8c59f1",
+                                    "width": 32,
+                                    "height": 32
+                                },
+                                {
+                                    "url": "https://preview.redd.it/award_images/t5_22cerq/klvxk1wggfd41_Helpful.png?width=48&amp;height=48&amp;auto=webp&amp;s=e50064b090879e8a0b55e433f6ee61d5cb5fbe1d",
+                                    "width": 48,
+                                    "height": 48
+                                },
+                                {
+                                    "url": "https://preview.redd.it/award_images/t5_22cerq/klvxk1wggfd41_Helpful.png?width=64&amp;height=64&amp;auto=webp&amp;s=8e5bb2e76683cb6b161830bcdd9642049d6adc11",
+                                    "width": 64,
+                                    "height": 64
+                                },
+                                {
+                                    "url": "https://preview.redd.it/award_images/t5_22cerq/klvxk1wggfd41_Helpful.png?width=128&amp;height=128&amp;auto=webp&amp;s=eda4a9246f95f42ee6940cc0ec65306fd20de878",
+                                    "width": 128,
+                                    "height": 128
+                                }
+                            ],
+                            "icon_format": null,
+                            "icon_height": 2048,
+                            "penny_price": null,
+                            "award_type": "global",
+                            "static_icon_url": "https://i.redd.it/award_images/t5_22cerq/klvxk1wggfd41_Helpful.png"
+                        },
+                        {
+                            "giver_coin_reward": null,
+                            "subreddit_id": null,
+                            "is_new": false,
+                            "days_of_drip_extension": null,
+                            "coin_price": 30,
+                            "id": "award_b4ff447e-05a5-42dc-9002-63568807cfe6",
+                            "penny_donate": null,
+                            "award_sub_type": "PREMIUM",
+                            "coin_reward": 0,
+                            "icon_url": "https://www.redditstatic.com/gold/awards/icon/Illuminati_512.png",
+                            "days_of_premium": null,
+                            "tiers_by_required_awardings": null,
+                            "resized_icons": [
+                                {
+                                    "url": "https://www.redditstatic.com/gold/awards/icon/Illuminati_16.png",
+                                    "width": 16,
+                                    "height": 16
+                                },
+                                {
+                                    "url": "https://www.redditstatic.com/gold/awards/icon/Illuminati_32.png",
+                                    "width": 32,
+                                    "height": 32
+                                },
+                                {
+                                    "url": "https://www.redditstatic.com/gold/awards/icon/Illuminati_48.png",
+                                    "width": 48,
+                                    "height": 48
+                                },
+                                {
+                                    "url": "https://www.redditstatic.com/gold/awards/icon/Illuminati_64.png",
+                                    "width": 64,
+                                    "height": 64
+                                },
+                                {
+                                    "url": "https://www.redditstatic.com/gold/awards/icon/Illuminati_128.png",
+                                    "width": 128,
+                                    "height": 128
+                                }
+                            ],
+                            "icon_width": 2048,
+                            "static_icon_width": 2048,
+                            "start_date": null,
+                            "is_enabled": true,
+                            "awardings_required_to_grant_benefits": null,
+                            "description": "A glowing commendation for all to see",
+                            "end_date": null,
+                            "sticky_duration_seconds": null,
+                            "subreddit_coin_reward": 0,
+                            "count": 1,
+                            "static_icon_height": 2048,
+                            "name": "All-Seeing Upvote",
+                            "resized_static_icons": [
+                                {
+                                    "url": "https://preview.redd.it/award_images/t5_q0gj4/am40b8b08l581_All-SeeingUpvote2.png?width=16&amp;height=16&amp;auto=webp&amp;s=978c93744e53b8c9305467a7be792e5c401eac6c",
+                                    "width": 16,
+                                    "height": 16
+                                },
+                                {
+                                    "url": "https://preview.redd.it/award_images/t5_q0gj4/am40b8b08l581_All-SeeingUpvote2.png?width=32&amp;height=32&amp;auto=webp&amp;s=d2ee343eef5048ad3add75d4a4d4e3922bb9565a",
+                                    "width": 32,
+                                    "height": 32
+                                },
+                                {
+                                    "url": "https://preview.redd.it/award_images/t5_q0gj4/am40b8b08l581_All-SeeingUpvote2.png?width=48&amp;height=48&amp;auto=webp&amp;s=7d216fd3a05c61d9fb75b27092844c546d958f14",
+                                    "width": 48,
+                                    "height": 48
+                                },
+                                {
+                                    "url": "https://preview.redd.it/award_images/t5_q0gj4/am40b8b08l581_All-SeeingUpvote2.png?width=64&amp;height=64&amp;auto=webp&amp;s=b76693f84fd19b04d0c0444a9812d812105e2d8f",
+                                    "width": 64,
+                                    "height": 64
+                                },
+                                {
+                                    "url": "https://preview.redd.it/award_images/t5_q0gj4/am40b8b08l581_All-SeeingUpvote2.png?width=128&amp;height=128&amp;auto=webp&amp;s=5353352ae9f443c353ef0b7725dabcfc1b3829a5",
+                                    "width": 128,
+                                    "height": 128
+                                }
+                            ],
+                            "icon_format": "APNG",
+                            "icon_height": 2048,
+                            "penny_price": null,
+                            "award_type": "global",
+                            "static_icon_url": "https://i.redd.it/award_images/t5_q0gj4/am40b8b08l581_All-SeeingUpvote2.png"
+                        }
+                    ],
+                    "awarders": [],
+                    "media_only": false,
+                    "link_flair_template_id": "87049662-0882-11e5-82e1-0e9d1a9f7761",
+                    "can_gild": true,
+                    "spoiler": false,
+                    "locked": false,
+                    "author_flair_text": "Silver | QC: CC 286, ETH 71, XMR 31 | NANO 53 | r/WSB 77",
+                    "treatment_tags": [],
+                    "visited": false,
+                    "removed_by": null,
+                    "num_reports": null,
+                    "distinguished": null,
+                    "subreddit_id": "t5_2wlj3",
+                    "author_is_blocked": false,
+                    "mod_reason_by": null,
+                    "removal_reason": null,
+                    "link_flair_background_color": "#7193ff",
+                    "id": "ytdb2l",
+                    "is_robot_indexable": true,
+                    "report_reasons": null,
+                    "author": "mybed54",
+                    "discussion_type": null,
+                    "num_comments": 821,
+                    "send_replies": true,
+                    "whitelist_status": "all_ads",
+                    "contest_mode": false,
+                    "mod_reports": [],
+                    "author_patreon_flair": false,
+                    "author_flair_text_color": "dark",
+                    "permalink": "/r/CryptoCurrency/comments/ytdb2l/ethereum_will_inevitably_flip_bitcoin/",
+                    "parent_whitelist_status": "all_ads",
+                    "stickied": false,
+                    "url": "https://www.reddit.com/r/CryptoCurrency/comments/ytdb2l/ethereum_will_inevitably_flip_bitcoin/",
+                    "subreddit_subscribers": 5881877,
+                    "created_utc": 1668274128.0,
+                    "num_crossposts": 3,
+                    "media": null,
+                    "is_video": false
+                }
+            },
+            {
+                "kind": "t3",
+                "data": {
+                    "approved_at_utc": null,
+                    "subreddit": "CryptoCurrency",
+                    "selftext": "In late 2018, Ethereum hit $80 - a drop of 95% from its previous All time high of $1400. It is difficult to see ETH dropping further now, but people back in 2018 had no idea it would go down by so much either. For reference, Bitoin dropped to $3200 at the time.\n\n&amp;#x200B;\n\n[ETH 2018-2019](https://preview.redd.it/9snygoiwinz91.png?width=956&amp;format=png&amp;auto=webp&amp;s=7fb536a8b27f54b17595f028bcc056f0dc22fc48)\n\nI wanted to try and guage a sense of the feeling towards Ethereum at the time, so I searched the archives and found some real gems. No judgement to any of the original posters whatosever. I'm sure there are others, but here are some of the posts made by users at the time of the December 2018 bottom.\n\n**ETH:** [**Daily December 6**](https://np.reddit.com/r/ethtrader/comments/a3l88n/comment/eb9wk7w/?utm_source=reddit&amp;utm_medium=web2x&amp;context=3)\n\n&amp;#x200B;\n\n&gt;So if bitcoin drops to $1000 we drop to $20?  \n&gt;  \n&gt;That's what I get from taking investment advice from youtubers.\n\n \n\n&gt;Just a reminder that another run is not a guarantee, 90% of the top 20 from 2014 are no longer around and ETH is still up 10x from the 2017 lows.  \n&gt;  \n&gt;Lot of room to drop boys.\n\n&amp;#x200B;\n\n&gt;Too many people here downvote any commentary on the slaughter that's happening. You can't even say ETH is going back down to $42 without getting downvoted to oblivion. Not that I'm saying ETH is going back down to $42 dollars, but I think we all should be mentally prepared for the possibility of ETH going back down to $42 because if ETH does go down to $42 there's going to be a lot of people here will be in a very bad place mentally and financially, and that's not good. That would be almost as bad as ETH going back down to $42. \n\n&amp;#x200B;\n\n&gt; I\u2019ll buy more at $50 and not give a shit about the price again until I see it at $10 or $800. \n\n&amp;#x200B;\n\n**ETH:** [**Will Ethereum ever reach a new all time high?**](https://np.reddit.com/r/ethtrader/comments/9y0jm9/will_ethereum_ever_reach_a_new_all_time_high/)\n\n&amp;#x200B;\n\n&gt;We are talking about things at scale that people cannot predict. It could go to a new ATH or be replaced by something technologically better. Who would have thought that the biggest company out of the internet bubble would be a book seller? \n\n&amp;#x200B;\n\n&gt; Not until POS and sharding are implemented successfully IMO \n\n&amp;#x200B;\n\n&gt; In my opinion, no. The smart money is long gone. Downvote me now I guess. \n\n&amp;#x200B;\n\n&gt;Unlikely. The crazy gains of the past years have left hundreds of thousands of people broke and only a people that got in before summer 2016 really made some money (ironically ETH is at even lower prices than it was back then).\n\n&amp;#x200B;\n\n&gt;Adoption is nowhere, most ICOs failed or were simply scams. Bitcoin and crypto and Ethereum interest by the general public is lower than it ever was and \"Ethereum\" is as trending on Google as it was 3 or 4 years ago and dropped more than 90% in interest over the last 12 months.\n\n&amp;#x200B;\n\n&gt;Everybody who could be pitched about crypto currencies heard of them one way or another.  \n&gt;  \n&gt;There's plenty of crypto bag holders that can't wait to dump their coins sooner or later.\n\n&amp;#x200B;\n\n**CC:** [**Thinking 3-5 years out, which cryptocurrencies hold the most promise for survival?**](https://np.reddit.com/r/CryptoCurrency/comments/9vxrp3/thinking_35_years_out_which_cryptocurrencies_hold/)\n\n&amp;#x200B;\n\n&gt;Dogecoin of course. \n\n&amp;#x200B;\n\n&gt;BTC: biggest and most well known ETH: smart contract platform XMR: privacy coin \n\n&amp;#x200B;\n\n&gt; Btc eth nano xrp iota. A lot of others like ada may make it, and some of the forks may hang on.  \n\n&amp;#x200B;\n\n&gt; If nano isn't around, then it's confirmed everyone in this game is retarded. \n\n&amp;#x200B;\n\n&amp;#x200B;\n\n&amp;#x200B;\n\n**CC:** [**Daily Megathread December 6**](https://np.reddit.com/r/CryptoCurrency/comments/a3l4t0/daily_discussion_megathread_december_6_2018/) \n\nThis is Capitulation Day. Reading the daily is heartbreaking, and eerily similar.\n\n&amp;#x200B;\n\n&gt;HODL turned out to be by far the worst investing strategy ever. \n\n&amp;#x200B;\n\n&gt;I wonder if crypto was all an exist scam orchestrated by whales. Regardless of how anyone may feel, there is no guarantee that this will go up again. \n\n&amp;#x200B;\n\n&gt;According to the log trends for NEO and ETH, they still have room to fall to the $3 and $30 area respectively \n\n&amp;#x200B;\n\n&gt;It is strange to consider there are buyers on one side of this despite the continual pain. \n\n&amp;#x200B;\n\n&gt;I\u2019m pretty scared to go to bed. I might wake up poor. Well.. poorer than crypto has already made me. \n\n&amp;#x200B;\n\n&gt;I\u2019m so numb by now that I could piss myself and not feel any warmth \n\n&amp;#x200B;\n\n&gt;Hmmm I haven't checked the markets in a few days lemme just check the priCEANDHOLYFUCKINGSHIT \n\n&amp;#x200B;\n\n&amp;#x200B;\n\nTLDR: Pretty much every person was in pain, and thought prices would keep going lower. Those that held anyway were rewarded greatly.  \n\n&amp;#x200B;\n\nMy favourite [comment](https://np.reddit.com/r/CryptoCurrency/comments/a3l4t0/comment/eb9eimb/?utm_source=reddit&amp;utm_medium=web2x&amp;context=3) is from u/Elidan123\n\n&gt;If the market ever goes back to ATH, we should all receive a 2018-XXXX -99% bear market survivor tag. \n\nWherever you are, I hope you're doing well and someone made you that tag you so definitely deserve.",
+                    "author_fullname": "t2_5bd5ys5g",
+                    "saved": false,
+                    "mod_reason_title": null,
+                    "gilded": 0,
+                    "clicked": false,
+                    "title": "In late 2018, Ethereum hit $80 - a drop of 95% from its previous ATH. Here are some of the posts made by users at the time.",
+                    "link_flair_richtext": [
+                        {
+                            "e": "text",
+                            "t": "DISCUSSION"
+                        }
+                    ],
+                    "subreddit_name_prefixed": "r/CryptoCurrency",
+                    "hidden": false,
+                    "pwls": 6,
+                    "link_flair_css_class": "DISCUSSION",
+                    "downs": 0,
+                    "thumbnail_height": 94,
+                    "top_awarded_type": null,
+                    "hide_score": false,
+                    "media_metadata": {
+                        "9snygoiwinz91": {
+                            "status": "valid",
+                            "e": "Image",
+                            "m": "image/png",
+                            "p": [
+                                {
+                                    "y": 72,
+                                    "x": 108,
+                                    "u": "https://preview.redd.it/9snygoiwinz91.png?width=108&amp;crop=smart&amp;auto=webp&amp;s=a2c489f7eff985f17e60e4b19405f46634fc7aaf"
+                                },
+                                {
+                                    "y": 145,
+                                    "x": 216,
+                                    "u": "https://preview.redd.it/9snygoiwinz91.png?width=216&amp;crop=smart&amp;auto=webp&amp;s=158482071f20455f0c4d0931a190e02688cda018"
+                                },
+                                {
+                                    "y": 215,
+                                    "x": 320,
+                                    "u": "https://preview.redd.it/9snygoiwinz91.png?width=320&amp;crop=smart&amp;auto=webp&amp;s=55d7a9159e65a82c7d69d30e9cf4944bc831ef57"
+                                },
+                                {
+                                    "y": 431,
+                                    "x": 640,
+                                    "u": "https://preview.redd.it/9snygoiwinz91.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=2a33e18b9e5431594080ec8b1a7f8a6284105eff"
+                                }
+                            ],
+                            "s": {
+                                "y": 645,
+                                "x": 956,
+                                "u": "https://preview.redd.it/9snygoiwinz91.png?width=956&amp;format=png&amp;auto=webp&amp;s=7fb536a8b27f54b17595f028bcc056f0dc22fc48"
+                            },
+                            "id": "9snygoiwinz91"
+                        }
+                    },
+                    "name": "t3_ytt2kr",
+                    "quarantine": false,
+                    "link_flair_text_color": "dark",
+                    "upvote_ratio": 0.91,
+                    "author_flair_background_color": "",
+                    "subreddit_type": "public",
+                    "ups": 213,
+                    "total_awards_received": 1,
+                    "media_embed": {},
+                    "thumbnail_width": 140,
+                    "author_flair_template_id": null,
+                    "is_original_content": false,
+                    "user_reports": [],
+                    "secure_media": null,
+                    "is_reddit_media_domain": false,
+                    "is_meta": false,
+                    "category": null,
+                    "secure_media_embed": {},
+                    "link_flair_text": "DISCUSSION",
+                    "can_mod_post": false,
+                    "score": 213,
+                    "approved_by": null,
+                    "is_created_from_ads_ui": false,
+                    "author_premium": false,
+                    "thumbnail": "https://b.thumbs.redditmedia.com/YIt-jTyfv6eadN7UNeKqlg7j4lp_dVb0AdFhgTPFl3k.jpg",
+                    "edited": false,
+                    "author_flair_css_class": null,
+                    "author_flair_richtext": [
+                        {
+                            "e": "text",
+                            "t": "Platinum | QC: CC 352, SOL 26 | BTC 24 | MiningSubs 18"
+                        }
+                    ],
+                    "gildings": {},
+                    "content_categories": null,
+                    "is_self": true,
+                    "mod_note": null,
+                    "created": 1668318221.0,
+                    "link_flair_type": "richtext",
+                    "wls": 6,
+                    "removed_by_category": null,
+                    "banned_by": null,
+                    "author_flair_type": "richtext",
+                    "domain": "self.CryptoCurrency",
+                    "allow_live_comments": true,
+                    "selftext_html": "&lt;!-- SC_OFF --&gt;&lt;div class=\"md\"&gt;&lt;p&gt;In late 2018, Ethereum hit $80 - a drop of 95% from its previous All time high of $1400. It is difficult to see ETH dropping further now, but people back in 2018 had no idea it would go down by so much either. For reference, Bitoin dropped to $3200 at the time.&lt;/p&gt;\n\n&lt;p&gt;&amp;#x200B;&lt;/p&gt;\n\n&lt;p&gt;&lt;a href=\"https://preview.redd.it/9snygoiwinz91.png?width=956&amp;amp;format=png&amp;amp;auto=webp&amp;amp;s=7fb536a8b27f54b17595f028bcc056f0dc22fc48\"&gt;ETH 2018-2019&lt;/a&gt;&lt;/p&gt;\n\n&lt;p&gt;I wanted to try and guage a sense of the feeling towards Ethereum at the time, so I searched the archives and found some real gems. No judgement to any of the original posters whatosever. I&amp;#39;m sure there are others, but here are some of the posts made by users at the time of the December 2018 bottom.&lt;/p&gt;\n\n&lt;p&gt;&lt;strong&gt;ETH:&lt;/strong&gt; &lt;a href=\"https://np.reddit.com/r/ethtrader/comments/a3l88n/comment/eb9wk7w/?utm_source=reddit&amp;amp;utm_medium=web2x&amp;amp;context=3\"&gt;&lt;strong&gt;Daily December 6&lt;/strong&gt;&lt;/a&gt;&lt;/p&gt;\n\n&lt;p&gt;&amp;#x200B;&lt;/p&gt;\n\n&lt;blockquote&gt;\n&lt;p&gt;So if bitcoin drops to $1000 we drop to $20?  &lt;/p&gt;\n\n&lt;p&gt;That&amp;#39;s what I get from taking investment advice from youtubers.&lt;/p&gt;\n\n&lt;p&gt;Just a reminder that another run is not a guarantee, 90% of the top 20 from 2014 are no longer around and ETH is still up 10x from the 2017 lows.  &lt;/p&gt;\n\n&lt;p&gt;Lot of room to drop boys.&lt;/p&gt;\n&lt;/blockquote&gt;\n\n&lt;p&gt;&amp;#x200B;&lt;/p&gt;\n\n&lt;blockquote&gt;\n&lt;p&gt;Too many people here downvote any commentary on the slaughter that&amp;#39;s happening. You can&amp;#39;t even say ETH is going back down to $42 without getting downvoted to oblivion. Not that I&amp;#39;m saying ETH is going back down to $42 dollars, but I think we all should be mentally prepared for the possibility of ETH going back down to $42 because if ETH does go down to $42 there&amp;#39;s going to be a lot of people here will be in a very bad place mentally and financially, and that&amp;#39;s not good. That would be almost as bad as ETH going back down to $42. &lt;/p&gt;\n&lt;/blockquote&gt;\n\n&lt;p&gt;&amp;#x200B;&lt;/p&gt;\n\n&lt;blockquote&gt;\n&lt;p&gt;I\u2019ll buy more at $50 and not give a shit about the price again until I see it at $10 or $800. &lt;/p&gt;\n&lt;/blockquote&gt;\n\n&lt;p&gt;&amp;#x200B;&lt;/p&gt;\n\n&lt;p&gt;&lt;strong&gt;ETH:&lt;/strong&gt; &lt;a href=\"https://np.reddit.com/r/ethtrader/comments/9y0jm9/will_ethereum_ever_reach_a_new_all_time_high/\"&gt;&lt;strong&gt;Will Ethereum ever reach a new all time high?&lt;/strong&gt;&lt;/a&gt;&lt;/p&gt;\n\n&lt;p&gt;&amp;#x200B;&lt;/p&gt;\n\n&lt;blockquote&gt;\n&lt;p&gt;We are talking about things at scale that people cannot predict. It could go to a new ATH or be replaced by something technologically better. Who would have thought that the biggest company out of the internet bubble would be a book seller? &lt;/p&gt;\n&lt;/blockquote&gt;\n\n&lt;p&gt;&amp;#x200B;&lt;/p&gt;\n\n&lt;blockquote&gt;\n&lt;p&gt;Not until POS and sharding are implemented successfully IMO &lt;/p&gt;\n&lt;/blockquote&gt;\n\n&lt;p&gt;&amp;#x200B;&lt;/p&gt;\n\n&lt;blockquote&gt;\n&lt;p&gt;In my opinion, no. The smart money is long gone. Downvote me now I guess. &lt;/p&gt;\n&lt;/blockquote&gt;\n\n&lt;p&gt;&amp;#x200B;&lt;/p&gt;\n\n&lt;blockquote&gt;\n&lt;p&gt;Unlikely. The crazy gains of the past years have left hundreds of thousands of people broke and only a people that got in before summer 2016 really made some money (ironically ETH is at even lower prices than it was back then).&lt;/p&gt;\n&lt;/blockquote&gt;\n\n&lt;p&gt;&amp;#x200B;&lt;/p&gt;\n\n&lt;blockquote&gt;\n&lt;p&gt;Adoption is nowhere, most ICOs failed or were simply scams. Bitcoin and crypto and Ethereum interest by the general public is lower than it ever was and &amp;quot;Ethereum&amp;quot; is as trending on Google as it was 3 or 4 years ago and dropped more than 90% in interest over the last 12 months.&lt;/p&gt;\n&lt;/blockquote&gt;\n\n&lt;p&gt;&amp;#x200B;&lt;/p&gt;\n\n&lt;blockquote&gt;\n&lt;p&gt;Everybody who could be pitched about crypto currencies heard of them one way or another.  &lt;/p&gt;\n\n&lt;p&gt;There&amp;#39;s plenty of crypto bag holders that can&amp;#39;t wait to dump their coins sooner or later.&lt;/p&gt;\n&lt;/blockquote&gt;\n\n&lt;p&gt;&amp;#x200B;&lt;/p&gt;\n\n&lt;p&gt;&lt;strong&gt;CC:&lt;/strong&gt; &lt;a href=\"https://np.reddit.com/r/CryptoCurrency/comments/9vxrp3/thinking_35_years_out_which_cryptocurrencies_hold/\"&gt;&lt;strong&gt;Thinking 3-5 years out, which cryptocurrencies hold the most promise for survival?&lt;/strong&gt;&lt;/a&gt;&lt;/p&gt;\n\n&lt;p&gt;&amp;#x200B;&lt;/p&gt;\n\n&lt;blockquote&gt;\n&lt;p&gt;Dogecoin of course. &lt;/p&gt;\n&lt;/blockquote&gt;\n\n&lt;p&gt;&amp;#x200B;&lt;/p&gt;\n\n&lt;blockquote&gt;\n&lt;p&gt;BTC: biggest and most well known ETH: smart contract platform XMR: privacy coin &lt;/p&gt;\n&lt;/blockquote&gt;\n\n&lt;p&gt;&amp;#x200B;&lt;/p&gt;\n\n&lt;blockquote&gt;\n&lt;p&gt;Btc eth nano xrp iota. A lot of others like ada may make it, and some of the forks may hang on.  &lt;/p&gt;\n&lt;/blockquote&gt;\n\n&lt;p&gt;&amp;#x200B;&lt;/p&gt;\n\n&lt;blockquote&gt;\n&lt;p&gt;If nano isn&amp;#39;t around, then it&amp;#39;s confirmed everyone in this game is retarded. &lt;/p&gt;\n&lt;/blockquote&gt;\n\n&lt;p&gt;&amp;#x200B;&lt;/p&gt;\n\n&lt;p&gt;&amp;#x200B;&lt;/p&gt;\n\n&lt;p&gt;&amp;#x200B;&lt;/p&gt;\n\n&lt;p&gt;&lt;strong&gt;CC:&lt;/strong&gt; &lt;a href=\"https://np.reddit.com/r/CryptoCurrency/comments/a3l4t0/daily_discussion_megathread_december_6_2018/\"&gt;&lt;strong&gt;Daily Megathread December 6&lt;/strong&gt;&lt;/a&gt; &lt;/p&gt;\n\n&lt;p&gt;This is Capitulation Day. Reading the daily is heartbreaking, and eerily similar.&lt;/p&gt;\n\n&lt;p&gt;&amp;#x200B;&lt;/p&gt;\n\n&lt;blockquote&gt;\n&lt;p&gt;HODL turned out to be by far the worst investing strategy ever. &lt;/p&gt;\n&lt;/blockquote&gt;\n\n&lt;p&gt;&amp;#x200B;&lt;/p&gt;\n\n&lt;blockquote&gt;\n&lt;p&gt;I wonder if crypto was all an exist scam orchestrated by whales. Regardless of how anyone may feel, there is no guarantee that this will go up again. &lt;/p&gt;\n&lt;/blockquote&gt;\n\n&lt;p&gt;&amp;#x200B;&lt;/p&gt;\n\n&lt;blockquote&gt;\n&lt;p&gt;According to the log trends for NEO and ETH, they still have room to fall to the $3 and $30 area respectively &lt;/p&gt;\n&lt;/blockquote&gt;\n\n&lt;p&gt;&amp;#x200B;&lt;/p&gt;\n\n&lt;blockquote&gt;\n&lt;p&gt;It is strange to consider there are buyers on one side of this despite the continual pain. &lt;/p&gt;\n&lt;/blockquote&gt;\n\n&lt;p&gt;&amp;#x200B;&lt;/p&gt;\n\n&lt;blockquote&gt;\n&lt;p&gt;I\u2019m pretty scared to go to bed. I might wake up poor. Well.. poorer than crypto has already made me. &lt;/p&gt;\n&lt;/blockquote&gt;\n\n&lt;p&gt;&amp;#x200B;&lt;/p&gt;\n\n&lt;blockquote&gt;\n&lt;p&gt;I\u2019m so numb by now that I could piss myself and not feel any warmth &lt;/p&gt;\n&lt;/blockquote&gt;\n\n&lt;p&gt;&amp;#x200B;&lt;/p&gt;\n\n&lt;blockquote&gt;\n&lt;p&gt;Hmmm I haven&amp;#39;t checked the markets in a few days lemme just check the priCEANDHOLYFUCKINGSHIT &lt;/p&gt;\n&lt;/blockquote&gt;\n\n&lt;p&gt;&amp;#x200B;&lt;/p&gt;\n\n&lt;p&gt;&amp;#x200B;&lt;/p&gt;\n\n&lt;p&gt;TLDR: Pretty much every person was in pain, and thought prices would keep going lower. Those that held anyway were rewarded greatly.  &lt;/p&gt;\n\n&lt;p&gt;&amp;#x200B;&lt;/p&gt;\n\n&lt;p&gt;My favourite &lt;a href=\"https://np.reddit.com/r/CryptoCurrency/comments/a3l4t0/comment/eb9eimb/?utm_source=reddit&amp;amp;utm_medium=web2x&amp;amp;context=3\"&gt;comment&lt;/a&gt; is from &lt;a href=\"/u/Elidan123\"&gt;u/Elidan123&lt;/a&gt;&lt;/p&gt;\n\n&lt;blockquote&gt;\n&lt;p&gt;If the market ever goes back to ATH, we should all receive a 2018-XXXX -99% bear market survivor tag. &lt;/p&gt;\n&lt;/blockquote&gt;\n\n&lt;p&gt;Wherever you are, I hope you&amp;#39;re doing well and someone made you that tag you so definitely deserve.&lt;/p&gt;\n&lt;/div&gt;&lt;!-- SC_ON --&gt;",
+                    "likes": null,
+                    "suggested_sort": null,
+                    "banned_at_utc": null,
+                    "view_count": null,
+                    "archived": false,
+                    "no_follow": false,
+                    "is_crosspostable": true,
+                    "pinned": false,
+                    "over_18": false,
+                    "all_awardings": [
+                        {
+                            "giver_coin_reward": null,
+                            "subreddit_id": null,
+                            "is_new": false,
+                            "days_of_drip_extension": null,
+                            "coin_price": 30,
+                            "id": "award_b4ff447e-05a5-42dc-9002-63568807cfe6",
+                            "penny_donate": null,
+                            "award_sub_type": "PREMIUM",
+                            "coin_reward": 0,
+                            "icon_url": "https://www.redditstatic.com/gold/awards/icon/Illuminati_512.png",
+                            "days_of_premium": null,
+                            "tiers_by_required_awardings": null,
+                            "resized_icons": [
+                                {
+                                    "url": "https://www.redditstatic.com/gold/awards/icon/Illuminati_16.png",
+                                    "width": 16,
+                                    "height": 16
+                                },
+                                {
+                                    "url": "https://www.redditstatic.com/gold/awards/icon/Illuminati_32.png",
+                                    "width": 32,
+                                    "height": 32
+                                },
+                                {
+                                    "url": "https://www.redditstatic.com/gold/awards/icon/Illuminati_48.png",
+                                    "width": 48,
+                                    "height": 48
+                                },
+                                {
+                                    "url": "https://www.redditstatic.com/gold/awards/icon/Illuminati_64.png",
+                                    "width": 64,
+                                    "height": 64
+                                },
+                                {
+                                    "url": "https://www.redditstatic.com/gold/awards/icon/Illuminati_128.png",
+                                    "width": 128,
+                                    "height": 128
+                                }
+                            ],
+                            "icon_width": 2048,
+                            "static_icon_width": 2048,
+                            "start_date": null,
+                            "is_enabled": true,
+                            "awardings_required_to_grant_benefits": null,
+                            "description": "A glowing commendation for all to see",
+                            "end_date": null,
+                            "sticky_duration_seconds": null,
+                            "subreddit_coin_reward": 0,
+                            "count": 1,
+                            "static_icon_height": 2048,
+                            "name": "All-Seeing Upvote",
+                            "resized_static_icons": [
+                                {
+                                    "url": "https://preview.redd.it/award_images/t5_q0gj4/am40b8b08l581_All-SeeingUpvote2.png?width=16&amp;height=16&amp;auto=webp&amp;s=978c93744e53b8c9305467a7be792e5c401eac6c",
+                                    "width": 16,
+                                    "height": 16
+                                },
+                                {
+                                    "url": "https://preview.redd.it/award_images/t5_q0gj4/am40b8b08l581_All-SeeingUpvote2.png?width=32&amp;height=32&amp;auto=webp&amp;s=d2ee343eef5048ad3add75d4a4d4e3922bb9565a",
+                                    "width": 32,
+                                    "height": 32
+                                },
+                                {
+                                    "url": "https://preview.redd.it/award_images/t5_q0gj4/am40b8b08l581_All-SeeingUpvote2.png?width=48&amp;height=48&amp;auto=webp&amp;s=7d216fd3a05c61d9fb75b27092844c546d958f14",
+                                    "width": 48,
+                                    "height": 48
+                                },
+                                {
+                                    "url": "https://preview.redd.it/award_images/t5_q0gj4/am40b8b08l581_All-SeeingUpvote2.png?width=64&amp;height=64&amp;auto=webp&amp;s=b76693f84fd19b04d0c0444a9812d812105e2d8f",
+                                    "width": 64,
+                                    "height": 64
+                                },
+                                {
+                                    "url": "https://preview.redd.it/award_images/t5_q0gj4/am40b8b08l581_All-SeeingUpvote2.png?width=128&amp;height=128&amp;auto=webp&amp;s=5353352ae9f443c353ef0b7725dabcfc1b3829a5",
+                                    "width": 128,
+                                    "height": 128
+                                }
+                            ],
+                            "icon_format": "APNG",
+                            "icon_height": 2048,
+                            "penny_price": null,
+                            "award_type": "global",
+                            "static_icon_url": "https://i.redd.it/award_images/t5_q0gj4/am40b8b08l581_All-SeeingUpvote2.png"
+                        }
+                    ],
+                    "awarders": [],
+                    "media_only": false,
+                    "link_flair_template_id": "87049662-0882-11e5-82e1-0e9d1a9f7761",
+                    "can_gild": true,
+                    "spoiler": false,
+                    "locked": false,
+                    "author_flair_text": "Platinum | QC: CC 352, SOL 26 | BTC 24 | MiningSubs 18",
+                    "treatment_tags": [],
+                    "visited": false,
+                    "removed_by": null,
+                    "num_reports": null,
+                    "distinguished": null,
+                    "subreddit_id": "t5_2wlj3",
+                    "author_is_blocked": false,
+                    "mod_reason_by": null,
+                    "removal_reason": null,
+                    "link_flair_background_color": "#7193ff",
+                    "id": "ytt2kr",
+                    "is_robot_indexable": true,
+                    "report_reasons": null,
+                    "author": "gnarley_quinn",
+                    "discussion_type": null,
+                    "num_comments": 162,
+                    "send_replies": true,
+                    "whitelist_status": "all_ads",
+                    "contest_mode": false,
+                    "mod_reports": [],
+                    "author_patreon_flair": false,
+                    "author_flair_text_color": "dark",
+                    "permalink": "/r/CryptoCurrency/comments/ytt2kr/in_late_2018_ethereum_hit_80_a_drop_of_95_from/",
+                    "parent_whitelist_status": "all_ads",
+                    "stickied": false,
+                    "url": "https://www.reddit.com/r/CryptoCurrency/comments/ytt2kr/in_late_2018_ethereum_hit_80_a_drop_of_95_from/",
+                    "subreddit_subscribers": 5881877,
+                    "created_utc": 1668318221.0,
+                    "num_crossposts": 1,
+                    "media": null,
+                    "is_video": false
+                }
+            },
+            {
+                "kind": "t3",
+                "data": {
+                    "approved_at_utc": null,
+                    "subreddit": "ethereum",
+                    "selftext": "Hello,\n\nToday with the network being so busy with people selling/buying Eth, almost all the supply of Eth issued since the merge has been wiped. \"We only produced 33.59 ETH\" LOL. Thank you EIP-1559!\n\n&amp;#x200B;\n\nhttps://preview.redd.it/m90259tgaty91.png?width=2548&amp;format=png&amp;auto=webp&amp;s=712b73730bfdc88ff8e4204458254734f7d92eab\n\nEdit:\n\nAnd we just went negative supply! Big milestone!\n\n&amp;#x200B;\n\nhttps://preview.redd.it/657hs5kalty91.png?width=2534&amp;format=png&amp;auto=webp&amp;s=4de9bc5c4621b1c7391da38040c4e30345bcb372",
+                    "author_fullname": "t2_d421yk42",
+                    "saved": false,
+                    "mod_reason_title": null,
+                    "gilded": 0,
+                    "clicked": false,
+                    "title": "Ethereum supply shock today",
+                    "link_flair_richtext": [],
+                    "subreddit_name_prefixed": "r/ethereum",
+                    "hidden": false,
+                    "pwls": 6,
+                    "link_flair_css_class": null,
+                    "downs": 0,
+                    "thumbnail_height": 59,
+                    "top_awarded_type": null,
+                    "hide_score": false,
+                    "media_metadata": {
+                        "m90259tgaty91": {
+                            "status": "valid",
+                            "e": "Image",
+                            "m": "image/png",
+                            "p": [
+                                {
+                                    "y": 45,
+                                    "x": 108,
+                                    "u": "https://preview.redd.it/m90259tgaty91.png?width=108&amp;crop=smart&amp;auto=webp&amp;s=e98d9868dc3f46ddd8a7ad907c882236be4f9f10"
+                                },
+                                {
+                                    "y": 91,
+                                    "x": 216,
+                                    "u": "https://preview.redd.it/m90259tgaty91.png?width=216&amp;crop=smart&amp;auto=webp&amp;s=8520f86d54ad3daf9b0b59567adc3432927c281a"
+                                },
+                                {
+                                    "y": 136,
+                                    "x": 320,
+                                    "u": "https://preview.redd.it/m90259tgaty91.png?width=320&amp;crop=smart&amp;auto=webp&amp;s=1f52e0c9431763e233d045f604ae3b89cd10950f"
+                                },
+                                {
+                                    "y": 272,
+                                    "x": 640,
+                                    "u": "https://preview.redd.it/m90259tgaty91.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=12cbbcf56213d68fd70b2862d055bd0eae284b3f"
+                                },
+                                {
+                                    "y": 408,
+                                    "x": 960,
+                                    "u": "https://preview.redd.it/m90259tgaty91.png?width=960&amp;crop=smart&amp;auto=webp&amp;s=f6c97119b6d615fe611b5e3e84e72b0fa63a3bb9"
+                                },
+                                {
+                                    "y": 459,
+                                    "x": 1080,
+                                    "u": "https://preview.redd.it/m90259tgaty91.png?width=1080&amp;crop=smart&amp;auto=webp&amp;s=f2c2c489fe45f24e7d7e1552c34cf5dbeaef0ff9"
+                                }
+                            ],
+                            "s": {
+                                "y": 1084,
+                                "x": 2548,
+                                "u": "https://preview.redd.it/m90259tgaty91.png?width=2548&amp;format=png&amp;auto=webp&amp;s=712b73730bfdc88ff8e4204458254734f7d92eab"
+                            },
+                            "id": "m90259tgaty91"
+                        },
+                        "657hs5kalty91": {
+                            "status": "valid",
+                            "e": "Image",
+                            "m": "image/png",
+                            "p": [
+                                {
+                                    "y": 28,
+                                    "x": 108,
+                                    "u": "https://preview.redd.it/657hs5kalty91.png?width=108&amp;crop=smart&amp;auto=webp&amp;s=61b6041b388ee572a7d73d007016ecf5545aac3d"
+                                },
+                                {
+                                    "y": 57,
+                                    "x": 216,
+                                    "u": "https://preview.redd.it/657hs5kalty91.png?width=216&amp;crop=smart&amp;auto=webp&amp;s=e9ace72ab548e97a473049536441072bbab0d7da"
+                                },
+                                {
+                                    "y": 84,
+                                    "x": 320,
+                                    "u": "https://preview.redd.it/657hs5kalty91.png?width=320&amp;crop=smart&amp;auto=webp&amp;s=d3b87614449d835a231e2d7c79af997bac046d41"
+                                },
+                                {
+                                    "y": 169,
+                                    "x": 640,
+                                    "u": "https://preview.redd.it/657hs5kalty91.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=37bc317fced1e65b1fde1a1cbfe9f87ff847f71a"
+                                },
+                                {
+                                    "y": 254,
+                                    "x": 960,
+                                    "u": "https://preview.redd.it/657hs5kalty91.png?width=960&amp;crop=smart&amp;auto=webp&amp;s=81951bede1b7dc495bdbc30c758295932d96a030"
+                                },
+                                {
+                                    "y": 286,
+                                    "x": 1080,
+                                    "u": "https://preview.redd.it/657hs5kalty91.png?width=1080&amp;crop=smart&amp;auto=webp&amp;s=b0222d8fba4ec02d7a70ef2f7f79579603483a51"
+                                }
+                            ],
+                            "s": {
+                                "y": 672,
+                                "x": 2534,
+                                "u": "https://preview.redd.it/657hs5kalty91.png?width=2534&amp;format=png&amp;auto=webp&amp;s=4de9bc5c4621b1c7391da38040c4e30345bcb372"
+                            },
+                            "id": "657hs5kalty91"
+                        }
+                    },
+                    "name": "t3_yq23d7",
+                    "quarantine": false,
+                    "link_flair_text_color": "dark",
+                    "upvote_ratio": 0.95,
+                    "author_flair_background_color": null,
+                    "subreddit_type": "public",
+                    "ups": 501,
+                    "total_awards_received": 1,
+                    "media_embed": {},
+                    "thumbnail_width": 140,
+                    "author_flair_template_id": null,
+                    "is_original_content": false,
+                    "user_reports": [],
+                    "secure_media": null,
+                    "is_reddit_media_domain": false,
+                    "is_meta": false,
+                    "category": null,
+                    "secure_media_embed": {},
+                    "link_flair_text": null,
+                    "can_mod_post": false,
+                    "score": 501,
+                    "approved_by": null,
+                    "is_created_from_ads_ui": false,
+                    "author_premium": false,
+                    "thumbnail": "https://a.thumbs.redditmedia.com/GEGG5n4k0xfNbk8Tag87je3gP9h4WfxzWWSMeZ1s_64.jpg",
+                    "edited": 1667953742.0,
+                    "author_flair_css_class": null,
+                    "author_flair_richtext": [],
+                    "gildings": {},
+                    "content_categories": null,
+                    "is_self": true,
+                    "mod_note": null,
+                    "created": 1667950127.0,
+                    "link_flair_type": "text",
+                    "wls": 6,
+                    "removed_by_category": null,
+                    "banned_by": null,
+                    "author_flair_type": "text",
+                    "domain": "self.ethereum",
+                    "allow_live_comments": false,
+                    "selftext_html": "&lt;!-- SC_OFF --&gt;&lt;div class=\"md\"&gt;&lt;p&gt;Hello,&lt;/p&gt;\n\n&lt;p&gt;Today with the network being so busy with people selling/buying Eth, almost all the supply of Eth issued since the merge has been wiped. &amp;quot;We only produced 33.59 ETH&amp;quot; LOL. Thank you EIP-1559!&lt;/p&gt;\n\n&lt;p&gt;&amp;#x200B;&lt;/p&gt;\n\n&lt;p&gt;&lt;a href=\"https://preview.redd.it/m90259tgaty91.png?width=2548&amp;amp;format=png&amp;amp;auto=webp&amp;amp;s=712b73730bfdc88ff8e4204458254734f7d92eab\"&gt;https://preview.redd.it/m90259tgaty91.png?width=2548&amp;amp;format=png&amp;amp;auto=webp&amp;amp;s=712b73730bfdc88ff8e4204458254734f7d92eab&lt;/a&gt;&lt;/p&gt;\n\n&lt;p&gt;Edit:&lt;/p&gt;\n\n&lt;p&gt;And we just went negative supply! Big milestone!&lt;/p&gt;\n\n&lt;p&gt;&amp;#x200B;&lt;/p&gt;\n\n&lt;p&gt;&lt;a href=\"https://preview.redd.it/657hs5kalty91.png?width=2534&amp;amp;format=png&amp;amp;auto=webp&amp;amp;s=4de9bc5c4621b1c7391da38040c4e30345bcb372\"&gt;https://preview.redd.it/657hs5kalty91.png?width=2534&amp;amp;format=png&amp;amp;auto=webp&amp;amp;s=4de9bc5c4621b1c7391da38040c4e30345bcb372&lt;/a&gt;&lt;/p&gt;\n&lt;/div&gt;&lt;!-- SC_ON --&gt;",
+                    "likes": null,
+                    "suggested_sort": "top",
+                    "banned_at_utc": null,
+                    "view_count": null,
+                    "archived": false,
+                    "no_follow": false,
+                    "is_crosspostable": true,
+                    "pinned": false,
+                    "over_18": false,
+                    "all_awardings": [
+                        {
+                            "giver_coin_reward": null,
+                            "subreddit_id": null,
+                            "is_new": false,
+                            "days_of_drip_extension": null,
+                            "coin_price": 125,
+                            "id": "award_5f123e3d-4f48-42f4-9c11-e98b566d5897",
+                            "penny_donate": null,
+                            "award_sub_type": "GLOBAL",
+                            "coin_reward": 0,
+                            "icon_url": "https://i.redd.it/award_images/t5_22cerq/5izbv4fn0md41_Wholesome.png",
+                            "days_of_premium": null,
+                            "tiers_by_required_awardings": null,
+                            "resized_icons": [
+                                {
+                                    "url": "https://preview.redd.it/award_images/t5_22cerq/5izbv4fn0md41_Wholesome.png?width=16&amp;height=16&amp;auto=webp&amp;s=92932f465d58e4c16b12b6eac4ca07d27e3d11c0",
+                                    "width": 16,
+                                    "height": 16
+                                },
+                                {
+                                    "url": "https://preview.redd.it/award_images/t5_22cerq/5izbv4fn0md41_Wholesome.png?width=32&amp;height=32&amp;auto=webp&amp;s=d11484a208d68a318bf9d4fcf371171a1cb6a7ef",
+                                    "width": 32,
+                                    "height": 32
+                                },
+                                {
+                                    "url": "https://preview.redd.it/award_images/t5_22cerq/5izbv4fn0md41_Wholesome.png?width=48&amp;height=48&amp;auto=webp&amp;s=febdf28b6f39f7da7eb1365325b85e0bb49a9f63",
+                                    "width": 48,
+                                    "height": 48
+                                },
+                                {
+                                    "url": "https://preview.redd.it/award_images/t5_22cerq/5izbv4fn0md41_Wholesome.png?width=64&amp;height=64&amp;auto=webp&amp;s=b4406a2d88bf86fa3dc8a45aacf7e0c7bdccc4fb",
+                                    "width": 64,
+                                    "height": 64
+                                },
+                                {
+                                    "url": "https://preview.redd.it/award_images/t5_22cerq/5izbv4fn0md41_Wholesome.png?width=128&amp;height=128&amp;auto=webp&amp;s=19555b13e3e196b62eeb9160d1ac1d1b372dcb0b",
+                                    "width": 128,
+                                    "height": 128
+                                }
+                            ],
+                            "icon_width": 2048,
+                            "static_icon_width": 2048,
+                            "start_date": null,
+                            "is_enabled": true,
+                            "awardings_required_to_grant_benefits": null,
+                            "description": "When you come across a feel-good thing.",
+                            "end_date": null,
+                            "sticky_duration_seconds": null,
+                            "subreddit_coin_reward": 0,
+                            "count": 1,
+                            "static_icon_height": 2048,
+                            "name": "Wholesome",
+                            "resized_static_icons": [
+                                {
+                                    "url": "https://preview.redd.it/award_images/t5_22cerq/5izbv4fn0md41_Wholesome.png?width=16&amp;height=16&amp;auto=webp&amp;s=92932f465d58e4c16b12b6eac4ca07d27e3d11c0",
+                                    "width": 16,
+                                    "height": 16
+                                },
+                                {
+                                    "url": "https://preview.redd.it/award_images/t5_22cerq/5izbv4fn0md41_Wholesome.png?width=32&amp;height=32&amp;auto=webp&amp;s=d11484a208d68a318bf9d4fcf371171a1cb6a7ef",
+                                    "width": 32,
+                                    "height": 32
+                                },
+                                {
+                                    "url": "https://preview.redd.it/award_images/t5_22cerq/5izbv4fn0md41_Wholesome.png?width=48&amp;height=48&amp;auto=webp&amp;s=febdf28b6f39f7da7eb1365325b85e0bb49a9f63",
+                                    "width": 48,
+                                    "height": 48
+                                },
+                                {
+                                    "url": "https://preview.redd.it/award_images/t5_22cerq/5izbv4fn0md41_Wholesome.png?width=64&amp;height=64&amp;auto=webp&amp;s=b4406a2d88bf86fa3dc8a45aacf7e0c7bdccc4fb",
+                                    "width": 64,
+                                    "height": 64
+                                },
+                                {
+                                    "url": "https://preview.redd.it/award_images/t5_22cerq/5izbv4fn0md41_Wholesome.png?width=128&amp;height=128&amp;auto=webp&amp;s=19555b13e3e196b62eeb9160d1ac1d1b372dcb0b",
+                                    "width": 128,
+                                    "height": 128
+                                }
+                            ],
+                            "icon_format": null,
+                            "icon_height": 2048,
+                            "penny_price": null,
+                            "award_type": "global",
+                            "static_icon_url": "https://i.redd.it/award_images/t5_22cerq/5izbv4fn0md41_Wholesome.png"
+                        }
+                    ],
+                    "awarders": [],
+                    "media_only": false,
+                    "can_gild": true,
+                    "spoiler": false,
+                    "locked": false,
+                    "author_flair_text": null,
+                    "treatment_tags": [],
+                    "visited": false,
+                    "removed_by": null,
+                    "num_reports": null,
+                    "distinguished": null,
+                    "subreddit_id": "t5_2zf9m",
+                    "author_is_blocked": false,
+                    "mod_reason_by": null,
+                    "removal_reason": null,
+                    "link_flair_background_color": "",
+                    "id": "yq23d7",
+                    "is_robot_indexable": true,
+                    "report_reasons": null,
+                    "author": "ConsciousHour7529",
+                    "discussion_type": null,
+                    "num_comments": 144,
+                    "send_replies": true,
+                    "whitelist_status": "all_ads",
+                    "contest_mode": false,
+                    "mod_reports": [],
+                    "author_patreon_flair": false,
+                    "author_flair_text_color": null,
+                    "permalink": "/r/ethereum/comments/yq23d7/ethereum_supply_shock_today/",
+                    "parent_whitelist_status": "all_ads",
+                    "stickied": false,
+                    "url": "https://www.reddit.com/r/ethereum/comments/yq23d7/ethereum_supply_shock_today/",
+                    "subreddit_subscribers": 1581894,
+                    "created_utc": 1667950127.0,
+                    "num_crossposts": 2,
+                    "media": null,
+                    "is_video": false
+                }
+            }
+        ],
+        "before": null
+    }
+}
