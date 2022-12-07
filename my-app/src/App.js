@@ -61,7 +61,6 @@ const featuredPosts = [
 ];
 
 const posts = [post1, post2, post3];
-const results = {"subreddit": "cryptocurrency", "topic": "ethereum", "sentiment": "0.4"}
 
 const sidebar = {
   title: 'About',
@@ -92,7 +91,7 @@ export default function Blog() {
         <main>
           <MainFeaturedPost post={mainFeaturedPost} />
           <Grid container spacing={5} sx={{ mt: 3 }}>
-            <Main title="Sentiment Crawler" posts={posts} results={results} />
+            <Main title="Sentiment Crawler" posts={posts} />
             <Sidebar
               title={sidebar.title}
               description={sidebar.description}
