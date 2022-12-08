@@ -50,7 +50,7 @@ function Main(props) {
     console.log({subreddit: data.get('subreddit')
     });
     handleToggle()
-    fetch("http://localhost:8000/sentiment?subreddit="+data.get('subreddit')+"&topic="+data.get('topic')+"&limit=0")
+    fetch("http://localhost:8000/sentiment?subreddit="+data.get('subreddit')+"&topic="+data.get('topic')+"&limit=10")
       .then(res => res.json())
       .then(
         (result) => {

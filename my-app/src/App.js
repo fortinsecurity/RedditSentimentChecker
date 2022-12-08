@@ -33,12 +33,12 @@ const sections = [
 ];
 
 const mainFeaturedPost = {
-  title: 'Title of a longer featured blog post',
+  title: 'What is reddit\'s opinion on a specific topic?',
   description:
-    "Multiple lines of text that form the lede, informing new readers quickly and efficiently about what's most interesting in this post's contents.",
+    "This small tool allows you to crawl reddit subreddits for specific topics, returning the summarized sentiment on the topic. It crawls all reddit articles and comments in a relevant timeframe. Powered by Python FastBox natural language processing (NLP).",
   image: 'https://source.unsplash.com/random',
   imageText: 'main image description',
-  linkText: 'Continue reading…',
+  linkText: '',
 };
 
 const featuredPosts = [
@@ -87,7 +87,7 @@ export default function Blog() {
     <ThemeProvider theme={theme}>
       <CssBaseline />
       <Container maxWidth="lg">
-        <Header title="Blog" sections={sections} />
+        <Header title="Reddit Sentiments" sections={sections} />
         <main>
           <MainFeaturedPost post={mainFeaturedPost} />
           <Grid container spacing={5} sx={{ mt: 3 }}>
