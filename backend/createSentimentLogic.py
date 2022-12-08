@@ -127,7 +127,7 @@ def queryToDatabase(subreddit, query, limit=25):
                     comments.append([article[0],article[1],commentBody,getSentiment(commentBody)]) # should i trim the string?
                 except KeyError:
                     continue
-            time.sleep(2)
+            # time.sleep(2)
     except Exception as er:
         print("Error: " ,er)
     finally:
@@ -142,7 +142,10 @@ def totalSentimentForTopicAndSubreddit(comments):
     sentimentValues = [c[3] for c in comments]
     if len(sentimentValues) == 0:
         return 0
-    return sum(sentimentValues)/len(sentimentValues)
+    elif sum(sentimentValues) < 1:
+        return sum(sentimentValues)
+    else:
+        return sum(sentimentValues)/len(sentimentValues)
 
 def getSentimentFinal(subreddit, topic, limit=25):
     return totalSentimentForTopicAndSubreddit(queryToDatabase(subreddit,topic,limit))
