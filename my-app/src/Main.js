@@ -11,6 +11,8 @@ import Box from '@mui/material/Box';
 import Paper from '@mui/material/Paper';
 import Checkbox from '@mui/material/Checkbox';
 import FormControlLabel from '@mui/material/FormControlLabel';
+import CheckIcon from '@mui/icons-material/Check';
+import ToggleButton from '@mui/material/ToggleButton';
 import Button from '@mui/material/Button';
 import Link from '@mui/material/Link';
 import TextField from '@mui/material/TextField';
@@ -23,6 +25,7 @@ function Main(props) {
   const posts = props["posts"];
   const title = props["title"];
   const [open, setOpen] = React.useState(false);
+  const [selected, setSelected] = React.useState(false);
   const handleClose = () => {
     setOpen(false);
   };
@@ -47,7 +50,7 @@ function Main(props) {
     console.log({subreddit: data.get('subreddit')
     });
     handleToggle()
-    fetch("http://localhost:8000/sentiment?subreddit="+data.get('subreddit')+"&topic="+data.get('topic')+"&limit=2")
+    fetch("http://localhost:8000/sentiment?subreddit="+data.get('subreddit')+"&topic="+data.get('topic')+"&limit=0")
       .then(res => res.json())
       .then(
         (result) => {
@@ -144,8 +147,10 @@ function Main(props) {
         Results
       </Typography>
       <Divider />
-      <Box sx={{ mt: 1 }}>
-        <Paper elevation={3} sx={{height: "40%", padding: "1em", "margin-top":"1em"}}>
+      <Box sx={{ mt: 1, "margin-bottom":"2em" }}>
+      <Grid container spacing={2}>
+        <Grid item xs={10}>
+        <Paper elevation={3} sx={{mb:2, xs:11, height: "8em", padding: "1em"}}>
             {!results &&
                 <span style={{color:"lightgray"}}>Your results will be visible here.</span>
             }
@@ -156,6 +161,20 @@ function Main(props) {
                 <p>The sentiment on this topic is: {parseFloat(results["sentiment"]).toFixed(2)} (on a scale from -1 to 1).</p>
             }
             </Paper>
+            </Grid>
+            <Grid item xs={2}>
+            <Button
+              value="check"
+              selected={selected}
+              sx={{p:1, pt:4, m:1, xs:1}}
+              onChange={() => {
+                setSelected(!selected);
+              }}
+            >
+              Subscribe to topic
+            </Button>
+            </Grid>
+            </Grid>
         </Box>
     </Grid>
   );
