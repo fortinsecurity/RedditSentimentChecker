@@ -1,4 +1,4 @@
-from sqlalchemy import Boolean, Column, ForeignKey, Integer, String
+from sqlalchemy import Boolean, Column, ForeignKey, Integer, String, Float, DateTime
 from sqlalchemy.orm import relationship
 
 from database import Base
@@ -29,6 +29,8 @@ class Sentiment(Base):
     __tablename__="sentiment"
 
     id = Column(Integer, primary_key=True, index=True)
+    timestamp = Column(DateTime, index=True)
     subreddit = Column(String, index=True)
     topic = Column(String, index=True)
-    sentimentrating = Column(Integer, index=True)
+    body = Column(String)
+    sentimentrating = Column(Float, index=True)

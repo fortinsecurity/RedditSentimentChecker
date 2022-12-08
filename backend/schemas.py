@@ -1,4 +1,5 @@
 from pydantic import BaseModel
+from datetime import datetime
 
 
 class ItemBase(BaseModel):
@@ -39,10 +40,11 @@ class User(UserBase):
 class SentimentBase(BaseModel):
     subreddit: str
     topic: str
-    sentimentrating: str | None = None
 
 class SentimentCreate(SentimentBase):
-    pass
+    body: str
+    timestamp: datetime
+    sentimentrating: float
 
 class Sentiment(SentimentBase):
     id: int

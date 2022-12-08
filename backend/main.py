@@ -9,6 +9,7 @@ react.js
 
 '''
 
+import datetime
 from typing import Union
 from fastapi import Depends, FastAPI, HTTPException, Query
 from fastapi.middleware.cors import CORSMiddleware
@@ -92,11 +93,32 @@ def read_items(skip: int = 0, limit: int = 100, db: Session = Depends(get_db)):
 
 #GET /sentiment?subreddit=crypto&topic=etherium
 
+""" 
+GET sentiment will call sentiment logic's getSentimentFinal, return the result, and store the comments using and then crud.create_sentiment 
+"""
 @app.get("/sentiment/")
-def read_Sentiment(subreddit: str = Query(regex="^\w*$"), topic: str = Query(regex="^\w*$"), limit: Union[int, None] = 25):
+def read_Sentiment(subreddit: str = Query(regex="^\w*$"), topic: str = Query(regex="^\w*$"), limit: Union[int, None] = 25, db: Session = Depends(get_db)):
     print(topic)
+    comments = queryToDatabase(subreddit,topic,limit)
+    for comment in comments:
+        now = datetime.datetime.now()
+        commentDict = {
+            "subreddit":comment[0],
+            "topic":comment[1],
+            "body":comment[2],
+            "sentiment":comment[3],
+            "timestamp": now
+        }
+        print("commentDict before curding to DB: ", commentDict)
+        try:
+            crud.create_sentiment(db=db, sentiment=commentDict)
+        except Exception as e:
+            print(e)
+    res = totalSentimentForTopicAndSubreddit(comments)
+    
+
     # return {"subreddit":"pokemon","topic":"pikachu","sentiment":0.07857142857142858}
-    return {"subreddit":subreddit, "topic":topic, "sentiment":getSentimentFinal(subreddit,topic,limit)}
+    return {"subreddit":subreddit, "topic":topic, "sentiment":res}
     
 @app.post("/sentiment/", response_model=schemas.Sentiment)
 def create_Sentiment(sentiment:schemas.SentimentCreate, db: Session = Depends(get_db)):

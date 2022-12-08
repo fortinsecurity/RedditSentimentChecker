@@ -40,9 +40,12 @@ def create_user_item(db: Session, item: schemas.ItemCreate, user_id: int):
 def get_sentiment_by_subreddit_and_topic(db: Session, subreddit: str, topic: str):
     return db.query(models.Sentiment).filter(models.Sentiment.subreddit == subreddit, models.Sentiment.topic == topic).first()
 
-def createSentiment(db: Session, sentiment: schemas.SentimentCreate):
-        db_sentiment = models.Sentiment(subreddit=sentiment.subreddit, topic=sentiment.topic,sentimentrating=sentiment.sentimentrating)
+def create_sentiment(db: Session, sentiment: schemas.SentimentCreate):
+        db_sentiment = models.Sentiment(subreddit=sentiment["subreddit"], topic=sentiment["topic"], timestamp=sentiment["timestamp"], body=sentiment["body"], sentimentrating=sentiment["sentimentrating"])
         db.add(db_sentiment)
         db.commit()
         db.refresh(db_sentiment)
         return db_sentiment
+
+""" def get_sentiment(db: Session, subreddit: str, topic: str):
+    res = db.query(models.Sentiment).filter(models.Sentiment.subreddit == subreddit, models.Sentiment.topic == topic).first() """
