@@ -1,0 +1,2 @@
+create logic behind "Subscribe to topic" button
+cleanup

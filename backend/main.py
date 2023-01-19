@@ -48,6 +48,7 @@ def get_db():
 
 @app.get("/")
 def read_root():
+    print("dumpb")
     return {"Hello": "World"}
 
 @app.post("/users/", response_model=schemas.User)
@@ -93,13 +94,17 @@ def read_items(skip: int = 0, limit: int = 100, db: Session = Depends(get_db)):
 
 #GET /sentiment?subreddit=crypto&topic=etherium
 
+async def asyncWrapper(subreddit,topic,limit):
+    return await queryToDatabase(subreddit,topic,limit)
+
 """ 
 GET sentiment will call sentiment logic's getSentimentFinal, return the result, and store the comments using and then crud.create_sentiment 
 """
 @app.get("/sentiment/")
 def read_Sentiment(subreddit: str = Query(regex="^\w*$"), topic: str = Query(regex="^\w*$"), limit: Union[int, None] = 25, db: Session = Depends(get_db)):
-    print(topic)
+    print("GET /sentiments/ called, with topic: " , topic)
     comments = queryToDatabase(subreddit,topic,limit)
+    print("Post awaiting comments.")
     for comment in comments:
         now = datetime.datetime.now()
         commentDict = {
@@ -109,7 +114,7 @@ def read_Sentiment(subreddit: str = Query(regex="^\w*$"), topic: str = Query(reg
             "sentiment":comment[3],
             "timestamp": now
         }
-        print("commentDict before curding to DB: ", commentDict)
+        # print("commentDict before curding to DB: ", commentDict)
         try:
             crud.create_sentiment(db=db, sentiment=commentDict)
         except Exception as e:
